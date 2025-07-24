@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>区块链平台</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>探索区块链的未来</h1>
+        <p>加入我们，实现无缝的加密货币交易和安全的钱包服务。</p>
+        <a href="#services" class="button">立即加入</a>
+    </header>
+
+    <section id="services">
+        <h2>我们的服务</h2>
+        <div class="service">
+            <h3>加密交易</h3>
+            <p>安全快速的交易平台，支持多种加密货币。</p>
+        </div>
+        <div class="service">
+            <h3>钱包服务</h3>
+            <p>安全的数字钱包，轻松管理您的资产。</p>
+        </div>
+        <div class="service">
+            <h3>教育资源</h3>
+            <p>学习区块链技术，掌握投资策略。</p>
+        </div>
+    </section>
+
+    <section id="about">
+        <h2>关于我们</h2>
+        <p>我们是一支致力于区块链技术创新的团队，旨在为全球用户提供安全、便捷的加密交易体验。</p>
+
+        <h3>愿景与使命</h3>
+        <p>我们希望通过先进的技术，使数字资产的交易变得简单和安全。</p>
+    </section>
+
+    <section id="news">
+        <h2>最新动态</h2>
+        <article>
+            <h3>市场趋势分析</h3>
+            <p>最近的市场波动如何影响加密投资？点击阅读更多。</p>
+        </article>
+        <article>
+            <h3>新功能发布</h3>
+            <p>我们即将推出的新功能，提升用户体验。</p>
+        </article>
+    </section>
+
+    <section id="faq">
+        <h2>常见问题</h2>
+        <p><strong>如何开始使用？</strong> 只需注册账户，按照指导步骤设置即可。</p>
+        <p><strong>资金安全如何保障？</strong> 我们采用先进的安全措施，确保您的资金安全。</p>
+        <p><strong>客户支持如何提供？</strong> 通过在线表单或支持邮箱与我们联系，快速获得帮助。</p>
+    </section>
+
+    <section id="contact">
+        <h2>联系我们</h2>
+        <p>如有任何问题，请通过以下方式联系我们：</p>
+        <ul>
+            <li>邮箱：support@example.com</li>
+            <li>电话：123-456-7890</li>
+        </ul>
+        <form>
+            <label for="name">姓名：</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="message">消息：</label>
+            <textarea id="message" name="message" required></textarea>
+
+            <button type="submit">发送</button>
+        </form>
+    </section>
+</body>
+</html>
